@@ -11,12 +11,15 @@
 .book-library h1{
 	text-align:center;
 }
-.book .img {
-	margin-top:20px;
+.book {
+/* 	margin-top:20px;
 	border:2px solid black;
 	display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; */
+	display:flex;
+	justify-content:center;
+	align-item:center;
 }
 
 #btn{
