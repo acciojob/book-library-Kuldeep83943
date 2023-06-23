@@ -1,1 +1,49 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#f8f8f8;
+}
+.book-library h1{
+	text-align:center;
+}
+.book .img {
+	border:2px solid black;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#btn{
+	background-color:#2ecc71;
+	width:100%;
+	border:none;
+	padding:8px;
+	color:white;
+	border-radius:5px;
+}
+
+.book-name{
+	margin-bottom:0px;
+	font-weight:bold;
+}
+
+.author-name{
+	margin-top:0px;
+	color:#777777;
+	margin-bottom:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
